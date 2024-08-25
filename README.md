@@ -36,6 +36,6 @@ Navigate to the client directory and install the necessary dependencies:
 3. Setting Up the Server
 Navigate to the server directory and install the necessary dependencies:
 
-"cd client"
+"cd server"
 "npm install"
 "npm start"
